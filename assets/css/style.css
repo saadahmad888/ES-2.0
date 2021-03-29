@@ -1,8 +1,6 @@
 /**
-* Template Name: Moderna - v2.2.0
-* Template URL: https://bootstrapmade.com/free-bootstrap-template-corporate-moderna/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: EssentialSofts - v-2.0
+* Author: TeamEssentials
 */
 
 /*--------------------------------------------------------------
@@ -412,7 +410,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   right: 0;
 }
 
-#hero h2 {
+#hero h1 {
   color: #fff;
   margin-bottom: 30px;
   font-size: 48px;
@@ -530,7 +528,7 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   background: linear-gradient(to right, rgba(30, 67, 86, 0.8), rgba(30, 67, 86, 0.6)), url("../img/hero-bg.jpg") center top no-repeat;
 }
 
-#hero-no-slider h2 {
+#hero-no-slider h1 {
   color: #fff;
   margin-bottom: 15px;
   font-size: 48px;
