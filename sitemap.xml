@@ -1,82 +1,77 @@
-This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xsi:schemaLocation=" http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!--  created with PRO Sitemap Service https://pro-sitemaps.com  -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
 <url>
-<loc>http://saadahmad.me/ES-2.0/</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>1.0000</priority>
+  <loc>http://saadahmad.me/ES-2.0/</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/index.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/index.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/about.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/about.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/services.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/services.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/portfolio.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/portfolio.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/team.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/team.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/coming-soon.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/coming-soon.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/contact.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/contact.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/courses.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/courses.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/terms.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/terms.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/privacy.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/privacy.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/cookie.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.8000</priority>
+  <loc>http://saadahmad.me/ES-2.0/cookie.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
-<loc>http://saadahmad.me/ES-2.0/portfolio-details.html</loc>
-<lastmod>2021-03-29T07:23:12+00:00</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.6400</priority>
+  <loc>http://saadahmad.me/ES-2.0/portfolio-details.html</loc>
+  <lastmod>2021-03-29T10:20:33+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
+
 </urlset>
