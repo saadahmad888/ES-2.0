@@ -1,4 +1,6 @@
 User-agent: *
-Allow: /
+Disallow: /blog.html/
+Disallow: /blog-single.html/
+Disallow: /index-2.html/
 
 Sitemap: sitemap.xml
