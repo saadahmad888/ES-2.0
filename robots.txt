@@ -1,4 +1,2 @@
 User-agent: *
-Disallow: /blog.html/
-Disallow: /blog-single.html/
-Disallow: /index-2.html/
+Disallow: 
