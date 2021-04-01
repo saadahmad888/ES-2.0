@@ -2425,7 +2425,12 @@ section {
 
 
 
-
+.index-pricing-banner{
+  background-image: url('../img/index-pricing-bg.webp');
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-attachment: fixed;
+}
 .pricing-banner{
   width: 85%;
   padding: 20px 10px 20px 10px;
